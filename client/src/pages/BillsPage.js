@@ -90,8 +90,8 @@ const BillsPage = () => {
             <center id="top">
               <div className="logo" />
               <div className="info">
-                <h2>Techinfo YT POS</h2>
-                <p> Contact : 123456 | Mumbai Maharashtra</p>
+                <h2>Cafe Bill</h2>
+                <p> Contact : 9979984949 | Mumbai Maharashtra</p>
               </div>
               {/*End Info*/}
             </center>
